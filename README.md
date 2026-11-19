@@ -1,7 +1,6 @@
 # Parameter schätzen: wie viel Phase I braucht eine Karte? – Streamlit-Demo
 
-<!-- TODO nach dem Deploy: direkt hierher den Live-Link setzen (Leerzeile davor und danach):
-**[→ Demo live ausprobieren](https://sebastianhanisch-anfangsparameter-demo.streamlit.app/)** -->
+**[→ Demo live ausprobieren](https://sebastianhanisch-anfangsparameter-demo.streamlit.app/)**
 
 Stück 4 der Linie **„Änderungserkennung“** (Konzepte-Reihe für die Website „Sebastian Hanisch – Operations Research und Machine Learning“, Block „online“: Karten, die im laufenden Betrieb Alarm geben). Der Vorgänger (Stück 3) vergleicht Karten
 mit **bekanntem** Mittelwert und bekannter Streuung; dieses Stück hebt genau diese Annahme auf (Kante „fix“): Die Karte schätzt x̄ und s aus **m Beobachtungen einer Phase I** und baut daraus ihre Grenzen. Der Nachfolger (Stück 5) lässt die
